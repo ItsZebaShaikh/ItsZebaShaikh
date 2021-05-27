@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsZebaShaikh
-- 👀 I’m interested in Machine Learning, NLP and Deep Learning.
+- 👀 I’m interested in Data Analytics, Excel, Python, SQL and Tableau.
 - 🌱 I’m currently learning data science and big data analytics.
 - 💞️ I’m looking to collaborate on machine learning models and deep learning projects. feel free to contact me for the same.
 - 📫 You can connect with me on Linkdin: https://www.linkedin.com/in/zeba-shaikh-889255142 or shoot me a mail at zebashaikh7744@gmail.com
