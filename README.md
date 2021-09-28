@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsZebaShaikh
-- 👀 I’m interested in Data Analytics, Excel, Python, SQL and Tableau.
+- 👀 I’m interested in Data Analytics and Data Science.
 - 🌱 I’m currently learning data science and big data analytics.
 - 📫 You can connect with me on Linkdin: https://www.linkedin.com/in/zeba-shaikh-889255142 or shoot me a mail at zebashaikh7744@gmail.com
 
