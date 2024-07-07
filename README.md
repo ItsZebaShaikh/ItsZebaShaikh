@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsZebaShaikh
-- 👀 I’m interested in Data Analytics and Data Science.
-- 🌱 I’m currently learning data science and big data analytics.
+- 👀 I’m interested in Business Intelligence and Data Analytics.
+- 🌱 I have 2 years of professional experience in BI solutions and Data Analytics.
 - 📫 You can connect with me on Linkdin: https://www.linkedin.com/in/zeba-shaikh-889255142 or shoot me a mail at zebashaikh7744@gmail.com
 
 <!---
